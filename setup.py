@@ -5,10 +5,10 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name="bioagent",
+    name="presto",
     version="0.0.5",
     description="",
-    author="CiaoHe",
+    author="AABBCC",
     license="Apache License 2.0",
     packages=find_packages(),
     include_package_data=True,
